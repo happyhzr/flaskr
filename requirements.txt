@@ -1,0 +1,18 @@
+attrs==21.2.0
+autopep8==1.6.0
+click==8.0.3
+coverage==6.1.2
+Flask==2.0.2
+-e git+ssh://git@github.com/happyhzr/flaskr.git@73203c4ad4188668eefc951bcce3f97fc13fb756#egg=flaskr
+iniconfig==1.1.1
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+packaging==21.2
+pluggy==1.0.0
+py==1.11.0
+pycodestyle==2.8.0
+pyparsing==2.4.7
+pytest==6.2.5
+toml==0.10.2
+Werkzeug==2.0.2
